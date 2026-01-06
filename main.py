@@ -14,6 +14,7 @@ def fibonacci_number(number):
 
 fibonacci_number(6)
 
+
 def fib_recursion(number):
     if number == 1 or number == 2:
         return 1
